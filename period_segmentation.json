@@ -1,0 +1,7 @@
+[
+  {"name": "Madrugada (0-6:59h)", "start_hour": 0, "end_hour": 7, "percentage": 0.05},
+  {"name": "Pico Manhã (7-9:59h)", "start_hour": 7, "end_hour": 10, "percentage": 0.30},
+  {"name": "Entre Picos (10-15:59h)", "start_hour": 10, "end_hour": 16, "percentage": 0.20},
+  {"name": "Pico Tarde (16-18:59h)", "start_hour": 16, "end_hour": 19, "percentage": 0.35},
+  {"name": "Noite (19-23:59h)", "start_hour": 19, "end_hour": 24, "percentage": 0.10}
+]
